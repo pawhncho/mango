@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mango/static/css/main.f855e6bc.css",
+    "main.js": "/mango/static/js/main.aa3c868e.js",
+    "static/js/453.a6a97343.chunk.js": "/mango/static/js/453.a6a97343.chunk.js",
+    "static/media/logo.svg": "/mango/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mango/index.html",
+    "main.f855e6bc.css.map": "/mango/static/css/main.f855e6bc.css.map",
+    "main.aa3c868e.js.map": "/mango/static/js/main.aa3c868e.js.map",
+    "453.a6a97343.chunk.js.map": "/mango/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.aa3c868e.js"
+  ]
+}
